@@ -9,5 +9,5 @@ int main() {
 			result++; 
 	if(!result) 
 		cout << result; 
-	else cout << result/2; 
+	else cout << result; 
 }
