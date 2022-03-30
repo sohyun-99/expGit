@@ -8,6 +8,6 @@ int main() {
 		if(s[i]!=s[i+1]) 
 			result++; 
 	if(!result) 
-		cout << result; 
+		cout << ""; 
 	else cout << result; 
 }
