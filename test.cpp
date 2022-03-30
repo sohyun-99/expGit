@@ -4,7 +4,10 @@ string s;
 int result=0; 
 
 void funcbdy1() {
-	cout << "" << endl;
+	for(int i=0;i<10;i++) {
+			cout << "" << endl;
+	}
+	
 }
 
 int main() { 
